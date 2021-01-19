@@ -1,0 +1,7 @@
+node_modules/
+.env
+.vscode
+.jshintrc
+./logfile.log
+package-lock.json
+.idea/
